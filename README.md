@@ -20,6 +20,6 @@ pkg install clang -y
 pkg install wget -y
 pkg install curl -y
 pip install requests phonenumbers colorama
-git clone https://github.com/somser2icsf/ICSF-TOOLS-1
-cd ICSF-TOOLS-1
-python icsf_tools1.py 
+git clone https://github.com/somser2icsf/ICSF_TOOLS
+cd ICSF_TOOLS
+python icsf_tools-v10.py 
